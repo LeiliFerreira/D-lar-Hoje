@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cor_primaria">#00796A</color>
+    <color name="cor_secundaria">#FFFFFFFF</color>
+    <color name="cor_terciaria">#333333</color>
+    <color name="cinza">#4F4F4F</color>
+</resources>
